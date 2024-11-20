@@ -1,0 +1,7 @@
+spec:
+  name: rps
+  static_sites:
+    - name: rps
+      git:
+        branch: main
+        repo_clone_url: https://github.com/thisgithubaccountaa/rps01.git
