@@ -1,5 +1,0 @@
-app = "rps01"
-
-[[statics]]
-guest_path = "/"
-url_prefix = "/"
